@@ -1,0 +1,1 @@
+🎃️🍬️🪄️🌐️ The official source repository for the website of the Halloween Assistant project, a Halloween assistant that helps you get the most out of Halloween by managing candy supplies, serving tricks and treats, and giving general advice and lessons. 
